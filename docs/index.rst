@@ -1,3 +1,6 @@
+nFacet Neural Network documentation
+===================================
+
 Main notebook: TestingNN.ipynb
 
 Dependencies: scipy, numpy, pandas, matplotlib, pytorch
