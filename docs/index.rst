@@ -15,4 +15,4 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   TestingNN
+   notebooks/TestingNN
